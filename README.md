@@ -1,2 +1,2 @@
-# C-study
+# Cpp-study
 personal C++ study repository
